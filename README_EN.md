@@ -101,7 +101,7 @@ This will only work in the current cmd session.<br>
 
 ## How to change the content
 
-~~What? I can't believe you don't like Akasha Terminal?~~<br>
+~~What? You don't like Akasha Terminal?~~<br>
 Just change the `[Power by Akasha Terminal]` part of the code.<br>
 
 > [!NOTE]
