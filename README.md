@@ -77,3 +77,31 @@ prompt [Power by 虚空终端] $P$G
   ```
 2. 删除在配置文件中添加的代码<br>
 3. 保存并关闭配置文件后重启 PowerShell 即可<br>
+
+## 如何修改内容
+
+~~什么？！你竟然不喜欢虚空终端？！~~<br>
+修改代码中的`[Power by 虚空终端] `部分即可<br>
+
+> [!NOTE]
+> 需要注意的是，PowerShell 的代码在内容的后面还有一个空格<br>
+
+例如：<br>
+* 在 PowerShell 中<br>
+```powershell
+function prompt {
+    Write-Host "[Power by 纳西妲] " -NoNewline -ForegroundColor Cyan
+    return "PS $($executionContext.SessionState.Path.CurrentLocation)$('>' * ($nestedPromptLevel + 1)) "
+}
+# Code by DuckStudio
+# Version 1.0
+# 注意：这是多行代码
+```
+效果：<br>
+![Power by 纳西妲](https://duckduckstudio.github.io/power_by_akasha_terminal/PowerShell-纳西妲.png)<br>
+* 在 cmd 中<br>
+```bash
+prompt [Power by 纳西妲] $P$G
+```
+效果：<br>
+![Power by 纳西妲](https://duckduckstudio.github.io/power_by_akasha_terminal/cmd-纳西妲.png)<br>
