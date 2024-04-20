@@ -5,7 +5,7 @@ LICENSE: MIT<br>
 
 [中文](https://github.com/DuckDuckStudio/power_by_akasha_terminal/blob/main/README.md) | English
 
-## 实现效果
+## Effects
 
 [In PowerShell]<br>
 ![A diagram showing the effect in PowerShell](https://duckduckstudio.github.io/power_by_akasha_terminal/PowerShell中的效果展示图.png)<br>
