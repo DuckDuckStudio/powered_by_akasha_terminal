@@ -59,3 +59,12 @@ function prompt {
 # 注意：这是多行代码
 ```
 这只会在当前 PowerShell 会话中有效。<br>
+
+### cmd
+
+* 一次性<br>
+如果你不想每次都有`[Power by 虚空终端]`，只想要当前的 cmd 有`[Power by 虚空终端]`，则你可以在 cmd 中运行以下指令：<br>
+```bash
+prompt [Power by 虚空终端] $P$G
+```
+这只会在当前 cmd 会话中有效。<br>
