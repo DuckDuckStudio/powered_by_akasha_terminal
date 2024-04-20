@@ -1,5 +1,7 @@
 # Power by 虚空终端
 
+![展示图](https://duckduckstudio.github.io/power_by_akasha_terminal/Power_by_虚空终端.png)
+
 把你的Windows终端变成虚空终端！<br>
 ~~玩__玩的~~<br>
 LICENSE: MIT<br>
