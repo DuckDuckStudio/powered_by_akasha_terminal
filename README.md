@@ -17,6 +17,10 @@ LICENSE: MIT<br>
 * 永久<br>
   * 原先没有配置文件<br>
     你可以下载仓库发行版中的`Microsoft.PowerShell_profile.ps1`，然后将这个文件放在`C:\Users\user_name\Documents\WindowsPowerShell\`中。(文件夹不存在的话就新建文件夹)<br>
+      如果希望一并修改标题的话可以加上：<br>
+      ```powershell
+      $host.UI.RawUI.WindowTitle = "虚空终端"
+      ```
       * 如果出现错误<br>
       如果出现类似这样的错误：<br>
       ```
@@ -50,6 +54,10 @@ LICENSE: MIT<br>
   # Version 1.0
   ```
   保存并关闭配置文件后重启 PowerShell 即可<br>
+  如果希望一并修改标题的话可以加上：<br>
+  ```powershell
+  $host.UI.RawUI.WindowTitle = "虚空终端"
+  ```
 * 一次性<br>
 如果你不想每次都有`[Power by 虚空终端]`，只想要当前的 PowerShell 有`[Power by 虚空终端]`，则你可以在 PowerShell 中运行以下指令：
 ```powershell
@@ -61,6 +69,10 @@ function prompt {
 # Version 1.0
 # 注意：这是多行代码
 ```
+如果希望一并修改标题的话可以加上：<br>
+```powershell
+$host.UI.RawUI.WindowTitle = "虚空终端"
+```
 这只会在当前 PowerShell 会话中有效。<br>
 
 ### cmd
@@ -69,6 +81,10 @@ function prompt {
 如果你不想每次都有`[Power by 虚空终端]`，只想要当前的 cmd 有`[Power by 虚空终端]`，则你可以在 cmd 中运行以下指令：<br>
 ```bash
 prompt [Power by 虚空终端] $P$G
+```
+如果希望一并修改标题的话可以加上：<br>
+```bash
+title 虚空终端
 ```
 这只会在当前 cmd 会话中有效。<br>
 
