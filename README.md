@@ -127,3 +127,8 @@ prompt [Power by 纳西妲] $P$G
 ```
 效果：<br>
 ![Power by 纳西妲](https://duckduckstudio.github.io/power_by_akasha_terminal/cmd-纳西妲.png)<br>
+
+## 关于翻译
+
+为什么不翻译`[Power by]`？<br>
+我保留了一部分英语，这样你才能知道你用的是终端(<br>
