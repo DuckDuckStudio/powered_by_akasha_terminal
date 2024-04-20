@@ -10,7 +10,7 @@ LICENSE: MIT<br>
 [In PowerShell]<br>
 ![A diagram showing the effect in PowerShell](https://duckduckstudio.github.io/power_by_akasha_terminal/PowerShell中的效果展示图.png)<br>
 
-[cmd中]<br>
+[In cmd]<br>
 ![A diagram showing the effect in cmd](https://duckduckstudio.github.io/power_by_akasha_terminal/cmd中的效果展示图.png)<br>
 
 ## How to achieve
