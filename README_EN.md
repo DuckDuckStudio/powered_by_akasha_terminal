@@ -31,15 +31,15 @@ LICENSE: MIT<br>
       Please try:<br>
         * Start PowerShell as Administrator<br>
         * Run the following command to view the current enforcement policy:<br>
-        ```powershell
-        Get-ExecutionPolicy
-        ```
-        If the returned result is not `RemoteSigned` or `Unrestricted`, then PowerShell is running an execution policy that restricts script execution. You can use the following command to change the execution policy:<br>
-        ```powershell
-        Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-        ```
-        This will allow the current user to run self-signed script files locally without asking the user for confirmation.<br>
-        Finally, a restart of PowerShell should fix the problem.<br>
+      ```powershell
+      Get-ExecutionPolicy
+      ```
+      If the returned result is not `RemoteSigned` or `Unrestricted`, then PowerShell is running an execution policy that restricts script execution. You can use the following command to change the execution policy:<br>
+      ```powershell
+      Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+      ```
+      This will allow the current user to run self-signed script files locally without asking the user for confirmation.<br>
+      Finally, a restart of PowerShell should fix the problem.<br>
       * If you encounter any other errors please submit Issues<br>
   * Originally had a configuration file<br>
   You can run the following command to open the PowerShell configuration file:<br>
