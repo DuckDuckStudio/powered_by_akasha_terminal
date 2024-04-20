@@ -18,7 +18,10 @@ LICENSE: MIT<br>
   * 原先没有配置文件<br>
     你可以下载仓库发行版中的`Microsoft.PowerShell_profile.ps1`，然后将这个文件放在`C:\Users\user_name\Documents\WindowsPowerShell\`中。(文件夹不存在的话就新建文件夹)<br>
       * 如果出现错误<br>
-      如果出现类似这样的错误：`. : File C:\Users\user_name\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.`<br>
+      如果出现类似这样的错误：<br>
+      ```
+      . : File C:\Users\user_name\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+      ```
       请尝试：<br>
         * 以管理员身份启动 PowerShell<br>
         * 运行以下命令以查看当前的执行策略：<br>
