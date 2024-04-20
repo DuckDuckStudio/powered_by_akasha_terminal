@@ -127,4 +127,6 @@ prompt [Power by Nahida] $P$G
 Effect:<br>
 ![Power by Nahida](https://duckduckstudio.github.io/power_by_akasha_terminal/cmd-纳西妲.png)<br>
 
+## About translation
+
 Use DeepL to assist with translation.<br>
