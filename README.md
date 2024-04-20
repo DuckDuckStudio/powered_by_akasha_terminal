@@ -68,3 +68,12 @@ function prompt {
 prompt [Power by 虚空终端] $P$G
 ```
 这只会在当前 cmd 会话中有效。<br>
+
+## 如果设置为永久该如何取消
+
+1. 运行以下命令打开 PowerShell 的配置文件：<br>
+  ```powershell
+  notepad $PROFILE
+  ```
+2. 删除在配置文件中添加的代码<br>
+3. 保存并关闭配置文件后重启 PowerShell 即可<br>
