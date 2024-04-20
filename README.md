@@ -16,7 +16,7 @@ LICENSE: MIT<br>
 ### PowerShell
 * 永久<br>
   * 原先没有配置文件<br>
-    你可以下载仓库发行版中的`Microsoft.PowerShell_profile.ps1`，然后将这个文件放在`C:\Users\user_name\Documents\WindowsPowerShell\`中。(文件夹不存在的话就新建文件夹)<br>
+    你可以下载[仓库发行版](https://github.com/DuckDuckStudio/power_by_akasha_terminal/releases/)中的`Microsoft.PowerShell_profile.ps1`，然后将这个文件放在`C:\Users\user_name\Documents\WindowsPowerShell\`中。(文件夹不存在的话就新建文件夹)<br>
       如果希望一并修改标题的话可以加上：<br>
       ```powershell
       $host.UI.RawUI.WindowTitle = "虚空终端"
