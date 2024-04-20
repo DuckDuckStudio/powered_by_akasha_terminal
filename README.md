@@ -34,15 +34,15 @@ LICENSE: MIT<br>
       请尝试：<br>
         * 以管理员身份启动 PowerShell<br>
         * 运行以下命令以查看当前的执行策略：<br>
-        ```powershell
-        Get-ExecutionPolicy
-        ```
-        如果返回的结果不是 `RemoteSigned` 或 `Unrestricted`，则表示 PowerShell 正在运行限制了脚本执行的执行策略。你可以使用以下命令来更改执行策略：<br>
-        ```powershell
-        Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-        ```
-        这将允许当前用户在本地运行自签名的脚本文件，而不会询问用户确认。<br>
-        最后，重新启动 PowerShell 应该就可以解决这个问题了。<br>
+      ```powershell
+      Get-ExecutionPolicy
+      ```
+      如果返回的结果不是 `RemoteSigned` 或 `Unrestricted`，则表示 PowerShell 正在运行限制了脚本执行的执行策略。你可以使用以下命令来更改执行策略：<br>
+      ```powershell
+      Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+      ```
+      这将允许当前用户在本地运行自签名的脚本文件，而不会询问用户确认。<br>
+      最后，重新启动 PowerShell 应该就可以解决这个问题了。<br>
       * 如果遇到其他错误请提交 Issues<br>
   * 原先存在配置文件<br>
   你可以运行以下命令打开 PowerShell 的配置文件：<br>
