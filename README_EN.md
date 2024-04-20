@@ -119,12 +119,12 @@ function prompt {
 # Note: this is multi-line code
 ```
 Effect:<br>
-![Power by Nahida](https://duckduckstudio.github.io/power_by_akasha_terminal/PowerShell-Nahida.png)<br>
+![Power by Nahida](https://duckduckstudio.github.io/power_by_akasha_terminal/PowerShell-纳西妲.png)<br>
 * In cmd<br>
 ```bash
 prompt [Power by Nahida] $P$G
 ```
 Effect:<br>
-![Power by Nahida](https://duckduckstudio.github.io/power_by_akasha_terminal/cmd-Nahida.png)<br>
+![Power by Nahida](https://duckduckstudio.github.io/power_by_akasha_terminal/cmd-纳西妲.png)<br>
 
 Use DeepL to assist with translation.<br>
