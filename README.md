@@ -26,7 +26,7 @@ LICENSE: MIT<br>
       ```powershell
       $host.UI.RawUI.WindowTitle = "虚空终端"
       ```
-      * 如果出现错误<br>
+      * 如果出现错误<br><div id="if-error"></div>
       如果出现类似这样的错误：<br>
       ```
       . : File C:\Users\user_name\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
