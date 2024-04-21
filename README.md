@@ -44,6 +44,8 @@ LICENSE: MIT<br>
       这将允许当前用户在本地运行自签名的脚本文件，而不会询问用户确认。<br>
       最后，重新启动 PowerShell 应该就可以解决这个问题了。<br>
       * 如果遇到其他错误请提交 Issues<br>
+      * 如果你是从项目[中文git](https://github.com/DuckDuckStudio/Chinese_git/)来的，到这里你就该回去了，Issues也请不要提交到这个项目上，请提交到中文git的Issues上。<br>
+      [点我快速返回 中文git 项目](https://github.com/DuckDuckStudio/Chinese_git/blob/main/README.md#tp-point)<br>
   * 原先存在配置文件<br>
   你可以运行以下命令打开 PowerShell 的配置文件：<br>
   ```powershell
