@@ -1,5 +1,7 @@
 # Power by Akasha Terminal
 
+![展示图](https://duckduckstudio.github.io/power_by_akasha_terminal/Power_by_Akasha_Terminal.png)
+
 Turn your Windows terminal into the Akasha Terminal!<br>
 LICENSE: MIT<br>
 

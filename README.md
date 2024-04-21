@@ -67,8 +67,8 @@ LICENSE: MIT<br>
 如果你不想每次都有`[Power by 虚空终端]`，只想要当前的 PowerShell 有`[Power by 虚空终端]`，则你可以在 PowerShell 中运行以下指令：
 ```powershell
 function prompt {
-    Write-Host "[Power by 虚空终端] " -NoNewline -ForegroundColor Cyan
-    return "PS $($executionContext.SessionState.Path.CurrentLocation)$('>' * ($nestedPromptLevel + 1)) "
+  Write-Host "[Power by 虚空终端] " -NoNewline -ForegroundColor Cyan
+  return "PS $($executionContext.SessionState.Path.CurrentLocation)$('>' * ($nestedPromptLevel + 1)) "
 }
 # Code by DuckStudio
 # Version 1.0
