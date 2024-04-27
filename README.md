@@ -6,6 +6,13 @@
 ~~玩__玩的~~<br>
 LICENSE: MIT<br>
 
+> [!NOTE]
+> 本项目原名[Power by 虚空终端]。但在后续发现，似乎不是`Power by`而是`Powered by`(这下尴尬了)<br>
+> 随机即按项目Issues #1的建议将项目修改为了[Powered by 虚空终端]<br>
+> 感谢哔哩哔哩上的网友的指出，也感谢UP主[鸭鸭_カモ](https://space.bilibili.com/2054654702)对本项目的介绍！<br>
+> ~~发疯时写的项目，自然容易出错。一看就是整天想着 **“This, is power!”** 导致的。~~<br>
+> 如有因项目名称修改导致的链接失效，请提交 Issues .<br>
+
 中文 | [English](https://duckduckstudio.github.io/powered_by_akasha_terminal/blob/main/README_EN.md)
 
 ## 实现效果
