@@ -1,5 +1,5 @@
 function prompt {
-    Write-Host "[Power by アーカーシャ端末] " -NoNewline -ForegroundColor Cyan
+    Write-Host "[Powered by アーカーシャ端末] " -NoNewline -ForegroundColor Cyan
     return "PS $($executionContext.SessionState.Path.CurrentLocation)$('>' * ($nestedPromptLevel + 1)) "
 }
 # Code by DuckStudio
