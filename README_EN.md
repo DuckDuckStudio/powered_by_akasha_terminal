@@ -1,6 +1,6 @@
 # Powered by Akasha Terminal
 
-![展示图](https://duckduckstudio.github.io/powered_by_akasha_terminal/powered_by_akasha_terminal.png)
+![展示图](https://duckduckstudio.github.io/powered_by_akasha_terminal/Powered_by_Akasha_terminal.png)
 
 Turn your Windows terminal into the Akasha Terminal!<br>
 LICENSE: MIT<br>
