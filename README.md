@@ -131,13 +131,13 @@ function prompt {
 # 注意：这是多行代码
 ```
 效果：<br>
-![Powered by 纳西妲](https://duckduckstudio.github.io/power_by_akasha_terminal/PowerShell-纳西妲.png)<br>
+![Powered by 纳西妲](https://duckduckstudio.github.io/powered_by_akasha_terminal/PowerShell-纳西妲.png)<br>
 * 在 cmd 中<br>
 ```bash
 prompt [Powered by 纳西妲] $P$G
 ```
 效果：<br>
-![Powered by 纳西妲](https://duckduckstudio.github.io/power_by_akasha_terminal/cmd-纳西妲.png)<br>
+![Powered by 纳西妲](https://duckduckstudio.github.io/powered_by_akasha_terminal/cmd-纳西妲.png)<br>
 
 ## 关于翻译
 
