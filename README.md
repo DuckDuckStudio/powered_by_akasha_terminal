@@ -13,7 +13,7 @@ LICENSE: MIT<br>
 > ~~发疯时写的项目，自然容易出错。一看就是整天想着 **“This, is power!”** 导致的。~~<br>
 > 如有因项目名称修改导致的链接失效，请提交 Issues .<br>
 
-中文 | [English](https://duckduckstudio.github.io/powered_by_akasha_terminal/blob/main/README_EN.md)
+中文 | [English](https://github.com/DuckDuckStudio/powered_by_akasha_terminal/blob/main/README_EN.md)
 
 ## 实现效果
 
